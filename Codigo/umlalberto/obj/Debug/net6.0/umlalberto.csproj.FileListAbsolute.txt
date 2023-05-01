@@ -1,0 +1,5 @@
+C:\Users\Mada\source\repos\umlalberto\umlalberto\obj\Debug\net6.0\umlalberto.csproj.AssemblyReference.cache
+C:\Users\Mada\source\repos\umlalberto\umlalberto\obj\Debug\net6.0\umlalberto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mada\source\repos\umlalberto\umlalberto\obj\Debug\net6.0\umlalberto.AssemblyInfoInputs.cache
+C:\Users\Mada\source\repos\umlalberto\umlalberto\obj\Debug\net6.0\umlalberto.AssemblyInfo.cs
+C:\Users\Mada\source\repos\umlalberto\umlalberto\obj\Debug\net6.0\umlalberto.csproj.CoreCompileInputs.cache
